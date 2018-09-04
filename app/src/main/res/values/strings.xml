@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz Time - Android</string>
+    <string name="name_field">Type your name ..</string>
+    <string name="label_1">Question 1</string>
+    <string name="text_q_1">What is Android?</string>
+    <string name="answer_1a">Desktop Operating System</string>
+    <string name="answer_1b">Programming Language</string>
+    <string name="answer_1c">Mobile Operating System</string>
+    <string name="label_2">Question 2</string>
+    <string name="text_q_2">Vertical is the default value of the orientation attribute in Linear Layout?</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="label_3">Question 3</string>
+    <string name="text_q_3">Layout where the position of the children can be described in relation to each other or to the parent?</string>
+    <string name="answer_here">answer</string>
+    <string name="label_4">Question 4</string>
+    <string name="text_q_4">Select the unit, that can be used for specifying dimensions.</string>
+    <string name="text_answer_4a">Scale Independent Pixels</string>
+    <string name="text_answer_4b">Density Independent Pixels</string>
+    <string name="text_answer_4c">Points</string>
+    <string name="label_5">Question 5</string>
+    <string name="text_q_5">The basic building element of Android user interface is called</string>
+    <string name="answer_5a">View</string>
+    <string name="answer_5b">Layout</string>
+    <string name="answer_5c">ViewGroup</string>
+    <string name="submit_answers">Submit answers</string>
+</resources>
